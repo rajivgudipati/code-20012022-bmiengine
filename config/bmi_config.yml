@@ -1,0 +1,31 @@
+bmi_info:
+    level1:
+        st_range: 
+        ed_range: 18.4
+        cat: Underweight
+        risk: Malnutrition risk
+    level2:
+        st_range: 18.5
+        ed_range: 24.9
+        cat: Normal weight
+        risk: Low risk
+    level3:
+        st_range: 25
+        ed_range: 29.9
+        cat: Overweight
+        risk: Enhanced risk
+    level4:
+        st_range: 30
+        ed_range: 34.9
+        cat: Moderately obese
+        risk: Medium risk
+    level5:
+        st_range: 35
+        ed_range: 39.9
+        cat: Severely obese
+        risk: High risk
+    level:
+        st_range: 40
+        ed_range:
+        cat: Very severely obese
+        risk: Very high risk
